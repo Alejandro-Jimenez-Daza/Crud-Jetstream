@@ -7,6 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+![PrimerCrudLaravel11](https://github.com/Alejandro-Jimenez-Daza/Crud-Laravel/assets/94633477/93c2fc49-4239-41e4-be30-37164c0c3f55)
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
